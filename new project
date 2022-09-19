@@ -1,0 +1,13 @@
+<html>
+</html>
+<head>
+</head>
+<body>
+  <nav>
+    <a>About Me</a>
+    <a>Projects</a>
+    <a>Blog</a>
+    <a>Resume</a>
+   </nav>
+   <p> I'm a front end developer
+</body>
